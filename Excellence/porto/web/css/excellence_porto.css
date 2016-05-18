@@ -1,0 +1,13 @@
+.page-header.type4 .header.panel .minicart-wrapper{
+	background-color: transparent !important;
+	color: #575859 !important;
+}
+.page-header.type4 .header.panel .switcher{
+	background-color: transparent !important;
+	color: #575859 !important;
+}
+
+/*this will be removed in future*/
+.page-header.type4{
+	background: #CCCCCC !important;
+}
